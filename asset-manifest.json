@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PPPTAILORINGCOURIER/static/css/main.ef697398.css",
-    "main.js": "/PPPTAILORINGCOURIER/static/js/main.9238f7e9.js",
+    "main.js": "/PPPTAILORINGCOURIER/static/js/main.0a0d0078.js",
     "static/media/desert-dune1.gif": "/PPPTAILORINGCOURIER/static/media/desert-dune1.7d5c85b285a68d171ad3.gif",
     "static/media/snow-mountain2.gif": "/PPPTAILORINGCOURIER/static/media/snow-mountain2.6d86dc180deb922c5351.gif",
     "static/media/forest1.gif": "/PPPTAILORINGCOURIER/static/media/forest1.61415fe742983ee9f1d7.gif",
@@ -73,10 +73,10 @@
     "static/media/ppp-logo-white.png": "/PPPTAILORINGCOURIER/static/media/ppp-logo-white.eee60b54c5fa2d2a64c7.png",
     "index.html": "/PPPTAILORINGCOURIER/index.html",
     "main.ef697398.css.map": "/PPPTAILORINGCOURIER/static/css/main.ef697398.css.map",
-    "main.9238f7e9.js.map": "/PPPTAILORINGCOURIER/static/js/main.9238f7e9.js.map"
+    "main.0a0d0078.js.map": "/PPPTAILORINGCOURIER/static/js/main.0a0d0078.js.map"
   },
   "entrypoints": [
     "static/css/main.ef697398.css",
-    "static/js/main.9238f7e9.js"
+    "static/js/main.0a0d0078.js"
   ]
 }
