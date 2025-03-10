@@ -1,6 +1,6 @@
 import React from 'react';
 import './ContactLocationPage.css';
-import Header from '../../Components/Header/Header';
+import Header from '../../components/Header/Header';
 
 
 function ContactLocationPage() {
@@ -17,9 +17,9 @@ function ContactLocationPage() {
                 <div className="contact-location-right">
                     <div className="contact-mini-div">
                         <h2 className="location-details">LOCATION DETAILS</h2>
-                        <p classNAme="contact-mini-div-text">92 ORCHARD STREET</p>
-                        <p classNAme="contact-mini-div-text">NY, UNITED STATES</p>
-                        <p classNAme="contact-mini-div-text">10002</p>  
+                        <p className="contact-mini-div-text">92 ORCHARD STREET</p>
+                        <p className="contact-mini-div-text">NY, UNITED STATES</p>
+                        <p className="contact-mini-div-text">10002</p>  
                     </div>
                     <div className="contact-mini-div">
                         <h2 className="location-details">CONTACT DETAILS</h2>
