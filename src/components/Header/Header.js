@@ -50,7 +50,7 @@ function Header() {
                         ABOUT
                 </AltButton>
                 <AltButton
-                     path="/profile"
+                     path="/login"
                      type="primary"
                      className="header-button"
                      size="small">
