@@ -12,6 +12,9 @@ import AboutPage from './Pages/AboutPage/AboutPage';
 import ContactLocationPage from './Pages/ContactLocationPage/ContactLocationPage';
 import ProfilePage from './Pages/ProfilePage/ProfilePage';
 import ChatWidget from './components/ChatWidget/ChatWidget';
+import LoginPage from './Pages/LoginPage/LoginPage';
+import SignupPage from './Pages/SignupPage/SignupPage';
+
 
 const AppContent = () => {
   const location = useLocation();
@@ -29,8 +32,9 @@ const AppContent = () => {
         <Route path="/services" element={<TailoringPage />}/>
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact+location" element={<ContactLocationPage />} />
+        <Route path="/login" element={<LoginPage />} />
         <Route path="/profile" element={<ProfilePage />} />
-        
+        <Route path="/signup" element={<SignupPage />} />
         {/* routes for ChatModal */}
         <Route path="/kit" element={<HomePage />} />
         <Route path="/home/kit" element={<HomePage />} />
